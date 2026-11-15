@@ -1,21 +1,23 @@
-# 13 ноября 2026 — Сюжетные решения и диалоги
+# November 13, 2026 — Story decisions and dialogue
 
-*Ретроспективная запись по закрытому журналу разработки.*
+**Language:** **English** · [Русский](2026-11-13-story-and-dialogues.ru.md)
 
-Ключевая идея Saltshore: действия и выборы игрока должны влиять на прохождение. Для этого нужен не только текст диалогов, но и надёжное состояние игры.
+*Retrospective entry based on verified internal development notes.*
 
-## Что сделано
+A core ambition for Saltshore is to make player decisions matter. That takes more than branching text: the game also has to remember decisions and apply them consistently.
 
-- Развивались внутренние механизмы хранения и применения сюжетных решений.
-- Подготовлен интерфейс диалогов и их вариантов.
-- Выполнены этапы технической проверки и визуальной доработки; соответствующий этап затем принят владельцем.
+## What changed
 
-## Почему это важно
+- Work continued on recording and applying story decisions.
+- The dialogue interface and choice presentation received a dedicated development pass.
+- The milestone went through technical testing and visual revisions before being approved by the creator.
 
-Разные варианты общения должны оставаться согласованными с заданиями, инвентарём и сохранениями. Игрок должен видеть последствия своих решений, а не случайные изменения после перезагрузки.
+## Why it matters
 
-## Что впереди
+Different ways of approaching a conversation need to work alongside quests, inventory, and save files. A decision should have a recognizable consequence rather than changing unpredictably when the player reloads.
 
-Наполнение системы историями, персонажами, последствиями и проверенными ветками прохождения. Реализация интерфейса сама по себе не равна полной готовности диалоговой кампании.
+## What's next
 
-[Дневник](../README.md#дневник-разработки)
+More characters, scenes, narrative outcomes, and meaningful routes. A functioning dialogue interface does **not** mean the complete branching storyline is already written or playable.
+
+[Development log](../README.md#development-log)

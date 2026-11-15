@@ -1,27 +1,29 @@
-# 14 ноября 2026 — Мира, интерфейс и живой мир
+# November 14, 2026 — Mira, the interface, and world interactions
 
-*Ретроспективная запись по закрытому журналу разработки.*
+**Language:** **English** · [Русский](2026-11-14-ui-and-world.ru.md)
 
-Этот этап был посвящён тому, чтобы игровой интерфейс выглядел цельнее, а окружение лучше реагировало на действия игрока.
+*Retrospective entry based on verified internal development notes.*
 
-## Что принято
+The focus of this milestone was to make Saltshore's interface feel more coherent and to improve how the world responds to player actions.
 
-- Интерфейс V2 и принятая визуальная внешность Миры.
-- Внешность героини согласована для экранов персонажа и экипировки; её образ используется последовательнее.
-- Освещение от фонаря и факела в игровой среде.
-- Размещение безопасных костров и доработки взаимодействия с подбираемыми ресурсами.
-- Уведомления о получении ресурсов без остановки игрового процесса.
+## What was approved
 
-## Что это даёт игроку
+- UI V2 and Mira's selected appearance.
+- A more consistent depiction of Mira on character and equipment screens.
+- Lighting associated with a lantern and torch.
+- Placeable, non-blocking campfires and improvements to item pickups.
+- Brief notifications when resources are collected, without interrupting play.
 
-Меньше разрыва между интерфейсом и происходящим в мире: предметы имеют видимое назначение, взаимодействия читаются лучше, а базовое исследование ощущается живее.
+## What it changes for players
 
-## Ограничения
+The interface and world interactions begin to feel more connected. Equipment has visible uses, actions are easier to read, and basic exploration becomes more intuitive.
 
-Работа проходила приёмку внутри проекта. Отдельная публичная сборка не выпускалась. Не все аппаратные и ручные проверки были закрыты в момент записи.
+## Limitations
 
-## Визуальные материалы
+This was an **internal acceptance milestone**, not a public game release. Some hands-on hardware and manual checks were still outstanding at the time.
 
-Первые предоставленные автором кадры интерфейса опубликованы в [галерее на главной странице](../README.md#первые-скриншоты). В частности, доступны экраны персонажа, характеристик и меню.
+## Screenshots
 
-[Дневник](../README.md#дневник-разработки)
+The creator has shared authentic UI captures, including the character, attributes, and menu screens. See the [main-page gallery](../README.md#screenshots-from-the-prototype).
+
+[Development log](../README.md#development-log)

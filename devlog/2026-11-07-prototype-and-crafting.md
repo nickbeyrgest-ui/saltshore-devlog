@@ -1,22 +1,24 @@
-# 7 ноября 2026 — Основы игры: крафт, ресурсы, задания
+# November 7, 2026 — Crafting, resources, and early quests
 
-*Ретроспективная запись по закрытому журналу разработки. Опубликована в составе первого набора devlog.*
+**Language:** **English** · [Русский](2026-11-07-prototype-and-crafting.ru.md)
 
-В начале ноября разработка Saltshore сосредоточилась на фундаменте, без которого даже красивая история остаётся набором экранов.
+*Retrospective entry based on verified internal development notes.*
 
-## Что сделано
+In early November, development focused on the systems that would make Saltshore's opening playable, rather than a collection of disconnected screens.
 
-- В прототипе появился набор базовых рецептов и механика создания предметов.
-- Продолжилась работа с подбираемыми ресурсами и предметами.
-- Система заданий и журнал были включены в технический маршрут, связанный со стартовыми локациями.
-- Проверялись сценарии сохранения и загрузки, чтобы прогресс игрока не зависел от удачи.
+## What changed
 
-## Что это означает
+- A basic set of recipes and item-crafting interactions was implemented.
+- Work continued on gathering resources and usable items.
+- An early quest system and journal were connected to the technical starting route.
+- Save/load scenarios were tested to help safeguard player progress.
 
-Первоначальный маршрут можно использовать как основу для последующей сюжетной игры. Но это ещё не завершённая первая глава, а технический фундамент.
+## Why it matters
 
-## Далее
+These are important foundations for a story-driven RPG. They do **not** mean the opening chapter is complete.
 
-Развитие персонажа, сюжетные выборы, диалоги и визуальная подача.
+## What's next
 
-[Дневник](../README.md#дневник-разработки)
+Character progression, dialogue, meaningful choices, and more cohesive visual presentation.
+
+[Development log](../README.md#development-log)
