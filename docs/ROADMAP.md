@@ -1,32 +1,34 @@
-# Дорожная карта Saltshore
+# Saltshore development roadmap
 
-Это публичные ориентиры проекта, а не обещание точных сроков.
+**Language:** **English** · [Русский](ROADMAP.ru.md)
 
-## 1. Укрепление технического фундамента
+These are creative and technical priorities, **not a promised release schedule**.
 
-Базовые системы инвентаря, сохранений, взаимодействий, крафта, интерфейса и сюжетного состояния уже строят основу игры. Этот этап продолжается по мере добавления нового контента.
+## 1. Strengthen the foundations
 
-## 2. Играбельный стартовый отрезок
+Refine the existing inventory, crafting, save/load, world interactions, interface, and story-state systems as new content is integrated.
 
-Цель — превратить ранний прототип в связный игровой фрагмент: понятное начало, рабочие цели игрока, последовательные диалоги, осмысленные выборы и визуально цельный пользовательский опыт.
+## 2. Build a cohesive playable opening
 
-## 3. Сюжет, отношения и ветвление
+Turn the technical starting route into a complete introduction with clear goals, meaningful conversations, readable progression, consistent visuals, and reliable saves.
 
-Одна из основных целей проекта — раскрывать историю через решения игрока, отношения с персонажами и нелинейные последствия. Именно здесь игра должна обрести свой характер.
+## 3. Make choices and relationships matter
 
-## 4. Расширение мира
+The long-term design calls for the player's decisions to influence the story and Mira's relationships. The foundation exists, but the larger narrative and relationship content is still being built.
 
-Новые локации, маршруты, события, профессии, персонажи и игровые ситуации будут добавляться постепенно, по мере готовности ядра.
+## 4. Expand the island and its stories
 
-## 5. Первая публичная Alpha
+Add characters, locations, quests, professions, factions, and meaningful alternative routes gradually. Stabilize existing systems before expanding scope.
 
-Когда появится проверенный и честно обозначенный объём контента, будет подготовлена первая публичная Windows-сборка с changelog, известными ограничениями и каналом обратной связи.
+## 5. Prepare the first public alpha
 
-## Что проект пока не обещает
+Release a limited but genuinely playable Windows build with verified functionality, version information, a changelog, known limitations, and a feedback channel.
 
-- Точную дату релиза.
-- Полную сюжетную кампанию в ближайшей сборке.
-- Немедленное появление всех задуманных механик.
-- Публичный доступ к основному приватному репозиторию.
+## Not promised
 
-[На главную](../README.md)
+- A specific launch date or playtime for the first alpha.
+- A complete campaign in the next build.
+- Immediate implementation of every proposed feature.
+- Public access to the private source repository.
+
+[Main page](../README.md)

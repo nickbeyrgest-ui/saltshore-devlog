@@ -1,32 +1,32 @@
-# Текущее состояние Saltshore
+# Current development status
 
-**Актуальность сводки:** 16 ноября 2026 года.
-**Источник:** подтверждённые материалы приватного репозитория и опубликованные изображения из рабочего прототипа.
+**Language:** **English** · [Русский](STATUS.ru.md)
 
-| Направление | Текущее состояние |
+**Snapshot: November 16, 2026.** This page summarizes verified internal development notes and prototype screenshots, not live release metrics.
+
+| Area | Verified state |
 | --- | --- |
-| Рабочий прототип RPG Maker MZ | Есть |
-| Стартовый маршрут | Технически реализован: побережье → пещера → родник |
-| Крафт и ресурсы | Есть базовая реализация |
-| Экран персонажа и экипировка | Есть |
-| Сохранение и загрузка | Есть версионируемая система |
-| Сюжетные выборы и диалоги | Есть базовый реализованный этап |
-| Интерфейс V2 | Принят владельцем |
-| Освещение и костры | Реализованы и приняты |
-| Система отношений | Является ключевым направлением проекта; дальнейшее наполнение в разработке |
-| Ветвление сюжета | Фундамент заложен, дальнейшее развитие продолжается |
-| Многочисленные локации и маршруты | Планируются как часть расширения мира |
-| Полноценная боевая система | Не заявлена как завершённая публичная функция |
-| Публичная сборка | Пока отсутствует |
-| Публичный сайт | В подготовке |
-| Скриншоты в devlog-репозитории | Первые реальные кадры добавлены |
+| RPG Maker MZ prototype | Exists and runs internally |
+| Early route | Beach → cave → spring, implemented as a technical route |
+| Crafting and gathering | Basic systems implemented |
+| Character attributes, equipment, and save/load | Implemented in the prototype |
+| Dialogue and story choices | Foundational milestone implemented and reviewed |
+| UI V2 | Approved by the creator |
+| Lighting and campfires | Implemented and approved in the reviewed milestone |
+| Relationships | Key design goal; deeper mechanics and story content in progress |
+| Branching narrative | Story-state foundation exists; substantial content remains to be built |
+| Additional locations | Planned |
+| Complete combat system | Not confirmed as a finished public feature |
+| Public build | Not available |
+| Official website | In preparation |
+| Screenshots | Five real prototype UI screenshots published |
 
-## Что это значит
+## What this means
 
-В проекте уже есть реальный игровой фундамент, который можно показывать как прототип. При этом ряд ключевых систем всё ещё развивается и не должен восприниматься как полностью завершённый релизный функционал.
+Technical implementation, creative approval, and public release readiness are different milestones. Working prototype systems do not yet amount to a finished chapter.
 
-## Ближайшая цель
+## Next milestone
 
-Продолжать развивать стартовый игровой отрезок, расширять сюжетное содержание, отношения, локации и боевую составляющую, одновременно сохраняя честность публичного devlog.
+Create a cohesive, testable opening experience while expanding narrative content and carefully integrating combat, relationships, and new locations.
 
-[На главную](../README.md)
+[Main page](../README.md)

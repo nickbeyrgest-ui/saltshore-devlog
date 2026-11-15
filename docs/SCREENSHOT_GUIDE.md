@@ -1,23 +1,25 @@
-# Работа со скриншотами Saltshore
+# Screenshot selection and publishing guide
 
-## Опубликованный набор
+**Language:** **English** · [Русский](SCREENSHOT_GUIDE.ru.md)
 
-| Путь | Содержание |
+## Current gallery
+
+| File | Description |
 | --- | --- |
-| `media/screens/title-screen.webp` | Главное меню |
-| `media/screens/pause-menu-mira.webp` | Портрет Миры и игровое меню |
-| `media/screens/character-stats.webp` | Характеристики и поведенческие показатели |
-| `media/screens/crafting-screen.webp` | Система крафта |
-| `media/screens/equipment-screen.webp` | Экипировка Миры |
+| `media/screens/title-screen.webp` | The game's main menu |
+| `media/screens/pause-menu-mira.webp` | Mira's portrait and the pause menu |
+| `media/screens/character-stats.webp` | Character attributes and behavioral traits |
+| `media/screens/crafting-screen.webp` | Recipes and required materials |
+| `media/screens/equipment-screen.webp` | Mira's equipment screen |
 
-Все пять кадров получены из предоставленных автором игровых скриншотов. Изменён только формат и размер изображений для GitHub.
+All five were provided by the creator. Only their size and format were changed for GitHub.
 
-## Редакционные правила
+## Editorial standards
 
-- Показывать реальные внутриигровые изображения, не выдавать концепты или генерацию за скриншоты.
-- Не публиковать незавершённый игровой мир до его визуальной приёмки.
-- Проверять отсутствие приватных данных, отладки, секретов, сюжетных спойлеров и нежелательных вложений.
-- Проверять права на использованные материалы перед открытием репозитория для широкой аудитории.
-- Новые изображения публиковать только после разрешения владельца.
+- Show genuine gameplay screenshots, not concepts or generated mockups passed off as playable content.
+- Do not publish unfinished world scenes until they pass visual review.
+- Check for private information, debugging overlays, secrets, unintended spoilers, and restricted assets.
+- Verify publishing rights before making this repository public.
+- Add new images only with the creator's approval.
 
-[На главную](../README.md)
+[Main page](../README.md)

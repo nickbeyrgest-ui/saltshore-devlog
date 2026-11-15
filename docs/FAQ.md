@@ -1,35 +1,37 @@
-# Частые вопросы
+# Frequently asked questions
 
-### Можно ли скачать игру уже сейчас?
+**Language:** **English** · [Русский](FAQ.ru.md)
 
-Пока нет. Сейчас существует внутренний рабочий прототип, но публичная сборка ещё не опубликована.
+### Can I play Saltshore now?
 
-### На каком движке создаётся игра?
+Not yet. There is an internal prototype, but no public build has been released.
 
-На RPG Maker MZ, с собственными игровыми системами и дополнительным JavaScript-кодом.
+### What engine is it built with?
 
-### Какие основные системы планируются в игре?
+RPG Maker MZ, with custom JavaScript modules and gameplay systems.
 
-Крафт, исследование, отношения между персонажами, сюжетные выборы с последствиями, несколько направлений развития истории, новые локации и другие расширяющиеся игровые механики.
+### What gameplay is planned?
 
-### Игра будет бесплатной?
+Exploration, crafting, character development, decisions with consequences, relationships, branching stories, and additional locations. Some technical foundations already work; the complete experience remains in development.
 
-Да, проект задуман как бесплатный. Добровольная поддержка не будет открывать обязательный контент или сюжетные преимущества.
+### Will the game be free?
 
-### Это взрослая игра?
+Yes. Saltshore is a free passion project. Voluntary support will not unlock exclusive story branches or essential content.
 
-Проект предназначен для аудитории 18+ и затрагивает зрелые темы. Конкретный состав контента в публичных версиях будет описываться отдельно.
+### Is this an adults-only game?
 
-### Используется ли искусственный интеллект?
+Yes. The game is intended for players aged 18 and over and explores mature themes. Content details will be provided for each future public build.
 
-Да. В разработке используются ChatGPT, OpenAI Codex, OpenCode, а также локальные и открытые модели и вспомогательные конфигурации/интерфейсы. Они помогают с планированием, программированием, тестами, документацией и визуальными экспериментами. Окончательные решения принимает автор проекта.
+### Do you use AI?
 
-### Почему основной репозиторий закрыт?
+Yes. ChatGPT, OpenAI Codex, OpenCode, ComfyUI, and local/open-weight models assist with planning, programming, tests, documentation, and visual experiments. The creator makes the final creative decisions.
 
-Этот репозиторий предназначен для безопасных обновлений и материалов для игроков. Внутренние исходники, черновики, рабочие ассеты и другие чувствительные материалы остаются приватными.
+### Why is the source repository private?
 
-### Когда появится сайт?
+This is a curated development journal, not an open-source mirror. Private source code, drafts, internal assets, and sensitive material are kept out of this repository.
 
-Официальный лендинг находится в подготовке и будет добавлен после фактического запуска.
+### When will the official site be available?
 
-[На главную](../README.md)
+The landing page is being developed separately. Its link will appear after launch and verification.
+
+[Main page](../README.md)
