@@ -1,23 +1,25 @@
-# YYYY-MM-DD — Короткое название обновления
+# YYYY-MM-DD — Development update title
 
-**Дата события:** YYYY-MM-DD
-**Дата публикации:** YYYY-MM-DD
-**Формат:** новый пост / ретроспективная запись
+**Language:** **English** · [Русский](DEVLOG_TEMPLATE.ru.md)
 
-## Что изменилось
+**Date of work:** YYYY-MM-DD  
+**Publication date:** YYYY-MM-DD  
+**Type:** New update / Retrospective
 
-Опишите только реально выполненное и проверенное.
+## What changed
 
-## Что это даёт игроку
+Describe what was actually implemented, reviewed, and verified.
 
-Понятный игровой эффект, а не только технические детали.
+## What it means for players
 
-## Что ещё не готово
+Explain the practical impact on the player experience, not just the code.
 
-Ограничения, ошибки, невыполненные проверки.
+## What is still missing
 
-## Изображения
+List relevant limitations, open issues, and checks that have not been completed.
 
-Только согласованные кадры, снабжённые подписями. Не показывать внутренние материалы без разрешения.
+## Images
 
-[Статус разработки](../docs/STATUS.md) · [Главная](../README.md)
+Use approved screenshots with accurate captions. Do not publish internal reference material or spoilers without explicit permission.
+
+[Current status](../docs/STATUS.md) · [Main page](../README.md)

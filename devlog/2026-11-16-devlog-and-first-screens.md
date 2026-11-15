@@ -1,28 +1,32 @@
-# 16 ноября 2026 — GitHub-дневник и первые скриншоты
+# November 16, 2026 — Launching the devlog and sharing the first screenshots
 
-Сегодня публичная витрина разработки Saltshore была приведена к первому рабочему состоянию.
+**Language:** **English** · [Русский](2026-11-16-devlog-and-first-screens.ru.md)
 
-## Что сделано
+Saltshore now has a dedicated GitHub space to share selected development updates and actual screenshots from its working prototype.
 
-- Оформлен GitHub-репозиторий devlog как отдельная безопасная витрина проекта.
-- Заполнены базовые страницы: статус, roadmap, FAQ и вводные материалы.
-- Добавлены первые реальные скриншоты из текущего прототипа.
-- В README встроена галерея, чтобы репозиторий сразу показывал не только текст, но и визуальную сторону проекта.
+## What changed
 
-## Какие изображения опубликованы
+- A separate, publication-conscious development journal was created.
+- Core pages were prepared: project status, roadmap, FAQ, and an introduction.
+- The creator supplied the first genuine in-game screenshots.
+- The README now includes a gallery so visitors can see the project's visual direction.
 
-- главное меню игры;
-- меню паузы с портретом Миры;
-- экран характеристик;
-- экран крафта;
-- экран персонажа и экипировки.
+## The first screenshots
 
-## Почему это важно
+The collection features:
 
-Репозиторий начинает работать не как пустая папка с обещаниями, а как понятная точка входа в разработку: можно увидеть направление игры, текущие системы и общий визуальный тон.
+- the main title screen;
+- the in-game menu with Mira's portrait;
+- the character attributes screen;
+- crafting recipes and requirements;
+- Mira's equipment screen.
 
-## Что дальше
+## Why this matters
 
-Следующие шаги — добавлять новые подтверждённые записи, расширять набор безопасных изображений и со временем связать этот devlog с будущим официальным лендингом.
+The devlog now gives visitors tangible evidence of development, rather than only a list of planned features.
 
-[На главную](../README.md)
+## Next steps
+
+Publish verified milestones, expand the approved gallery as the project develops, and eventually connect the journal to Saltshore's official website.
+
+[Main page](../README.md)
