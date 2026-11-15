@@ -1,24 +1,28 @@
-# Связь с будущим лендингом Saltshore
+# Connecting the devlog to the official website
 
-Отдельный проект сайта находится в приватном репозитории `RPGLANDING`. Этот devlog — кандидат на официальную страницу прогресса.
+**Language:** **English** · [Русский](SITE_INTEGRATION.ru.md)
 
-## Сценарий
+The official landing page is a separate project in the private `RPGLANDING` repository. This devlog is intended to become the official player-facing record of Saltshore development.
 
-После проверки и открытия витрины для публики на сайте можно разместить ссылку «Ход разработки / Development log» на:
+## Planned link
+
+Once the showcase is reviewed and separately approved for public access, the website may link to:
 
 `https://github.com/nickbeyrgest-ui/saltshore-devlog`
 
-Пока репозиторий приватный, публичный сайт **не должен** обещать пользователю доступ по этой ссылке.
+Suggested English label: **Development Log** or **Follow Development**. The Russian website can use the corresponding Russian label.
 
-## Единая правда
+**Until this repository is public, the website must not present that URL as publicly accessible.**
 
-- Статус игры: указывать реальные подтверждённые результаты.
-- Версия и скачивание: появятся только после проверенного публичного релиза.
-- Изображения: разрешённые скриншоты с проверенными правами и без спойлеров.
-- Кнопка доната не нужна для запуска сайта.
+## Consistency across site and devlog
 
-## Будущая синхронизация
+- Use verified status claims, not speculative milestones.
+- Show actual version numbers and downloads only after a tested public release.
+- Include only approved screenshots with appropriate publication rights.
+- Voluntary support is not required for development or downloads.
 
-Сайт и GitHub могут использовать одни и те же проверенные факты о релизах, но автоматическое копирование внутренних игровых документов в публичное пространство запрещено.
+## Future synchronization
 
-[На главную](../README.md)
+The site and the devlog may share a curated release manifest and verified news. Never mirror private source files, the personal idea notebook, or confidential technical documents into a public-facing repository.
+
+[Main page](../README.md)

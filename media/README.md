@@ -1,15 +1,17 @@
-# Скриншоты Saltshore
+# Saltshore screenshots
 
-В этой папке размещены **реальные кадры из рабочего прототипа**. Изображения уменьшены до ширины 1280 пикселей и сохранены в WebP без изменения игрового содержания. Это не концепт-арты и не изображения, имитирующие игровой процесс.
+**Language:** **English** · [Русский](README.ru.md)
 
-| Изображение | Описание |
+This folder contains **genuine screenshots from an internal Saltshore prototype**. They were resized to 1280 pixels wide and converted to WebP without altering the in-game content. They are not concept art or AI-generated mockups.
+
+| Screenshot | Description |
 | --- | --- |
-| [title-screen.webp](screens/title-screen.webp) | Главное меню и атмосфера игры |
-| [pause-menu-mira.webp](screens/pause-menu-mira.webp) | Меню паузы с портретом Миры |
-| [character-stats.webp](screens/character-stats.webp) | Экран характеристик персонажа |
-| [crafting-screen.webp](screens/crafting-screen.webp) | Рецепты и система крафта |
-| [equipment-screen.webp](screens/equipment-screen.webp) | Мира в экране экипировки |
+| [title-screen.webp](screens/title-screen.webp) | Main menu and atmosphere |
+| [pause-menu-mira.webp](screens/pause-menu-mira.webp) | Mira's portrait and in-game menu |
+| [character-stats.webp](screens/character-stats.webp) | Character attributes and behavior |
+| [crafting-screen.webp](screens/crafting-screen.webp) | Recipes and crafting interface |
+| [equipment-screen.webp](screens/equipment-screen.webp) | Mira's equipment |
 
-Полноценный скрин игрового мира сознательно не добавлен: визуальная реализация локаций ещё требует доработки.
+The unfinished world view has deliberately been excluded until the locations receive further visual work.
 
-[Правила публикации скриншотов](../docs/SCREENSHOT_GUIDE.md) · [Главная](../README.md)
+[Screenshot guidelines](../docs/SCREENSHOT_GUIDE.md) · [Main page](../README.md)

@@ -1,15 +1,17 @@
-# Публичные версии игры
+# Public game releases
 
-**Публичного релиза пока нет.**
+**Language:** **English** · [Русский](README.ru.md)
 
-Когда появится первая проверенная Windows-сборка, сюда будут добавлены:
+**There is no public Saltshore build yet.**
 
-- название версии и дата;
-- содержимое релиза и известные ограничения;
-- ссылка на **официальную** загрузку;
-- размер архива и контрольная сумма SHA-256;
-- совместимость сохранений и краткий changelog.
+When the first tested Windows release is available, this page will provide:
 
-Не считать произвольный архив, тестовую папку или рабочий репозиторий официальной сборкой.
+- version number and release date;
+- playable content and known limitations;
+- the **official download** location;
+- archive size and SHA-256 checksum;
+- save-game compatibility details and a concise changelog.
 
-[На главную](../README.md)
+An internal test folder, an unofficial archive, or the private working repository is **not** an official release.
+
+[Main page](../README.md)

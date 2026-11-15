@@ -1,34 +1,44 @@
-# Правила ведения devlog
+# Devlog editorial workflow
 
-Этот репозиторий предназначен для будущих игроков. Он не является личным блокнотом идей или зеркалом внутренней документации.
+**Language:** **English** · [Русский](EDITORIAL_WORKFLOW.ru.md)
 
-## Откуда брать факты
+This repository is a **player-facing development journal**. It is not the creator's private idea notebook or a copy of the internal game workspace.
 
-1. Проверенные записи приватного игрового DEV_LOG.
-2. Утверждённые решения автора и результаты приёмки.
-3. Реально работающие экранные материалы и релизы.
+## Sources of truth
 
-Один лишь технический отчёт агента не означает, что функция понравилась владельцу или готова к публикации.
+1. Verified work recorded in the game's private development log.
+2. Decisions and results explicitly approved by the creator.
+3. Authentic screenshots, tested builds, and confirmed releases.
 
-## Перед новым постом
+An AI agent marking a task "done" does **not** by itself mean the result is creatively approved or publicly ready.
 
-- Проверить дату события и исходный источник.
-- Отделить «сделано» от «планируется» и «проверяется».
-- Скрыть личные пути, секреты, токены, конфиги, исходники и спойлеры.
-- Проверить лицензии и возможность публикации изображений.
-- Указывать ограничения и непроведённые проверки.
-- Сначала согласовать существенные публикации с владельцем.
+## Before publishing
 
-## Связь с личным дневником идей
+- Verify the date, source, and actual status of each claim.
+- Clearly distinguish **implemented**, **in progress**, and **planned**.
+- Exclude local paths, credentials, personal information, private code, and plot spoilers.
+- Review licensing and permissions for visuals and third-party assets.
+- State important limitations and tests that have not yet been completed.
+- Ask for the creator's approval before substantial public-facing updates.
 
-Идеи `IDEA-001+` не публикуются автоматически. Только отдельно разрешённые, редакционно подготовленные сведения могут попасть в новости. Само обсуждение идеи не создаёт задачу Codex.
+## Language policy
 
-## Формат поста
+- **English is canonical:** `README.md`, default pages in `docs/`, `devlog/`, `releases/`, and editorial materials.
+- **Russian is optional but complete:** `README.ru.md` and matching `*.ru.md` pages.
+- Keep visible **English | Русский** links on both versions and maintain same-language internal links.
+- Localize for a natural native-language reading experience rather than translating word-for-word.
+- If one translation is delayed, label that version as pending instead of quietly presenting outdated information.
 
-Дата события; короткий заголовок; что изменилось; что пока не готово; при необходимости изображения; ссылка на общий статус. Ранние посты помечать как ретроспективные.
+## Connection to the private idea journal
 
-## Безопасность
+Private ideas such as `IDEA-001+` do not go public automatically. A discussion is not an approved Codex task or an announced future feature without a separate creator decision.
 
-**Не открывать публичный доступ автоматически.** Перед изменением видимости провести аудит файлов и всей Git-истории, включая ранее удалённые файлы. Текущие коммиты должны быть безопасными и для будущего публичного режима.
+## How to structure entries
 
-[На главную](../README.md)
+Include the date of work, publication date when different, a clear title, actual changes, benefits for players, limitations, and approved media. Label retrospective entries.
+
+## Safety
+
+**Do not make this repository public automatically.** Before changing visibility, review every file and the full Git history, including old versions and removed files, for sensitive content.
+
+[Main page](../README.md)
