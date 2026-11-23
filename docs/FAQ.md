@@ -2,36 +2,40 @@
 
 **Language:** **English** · [Русский](FAQ.ru.md)
 
-### Can I play Saltshore now?
+### Can I download Saltshore?
 
-Not yet. There is an internal prototype, but no public build has been released.
+Not yet. The game has an internal prototype but **no public playable build**.
 
-### What engine is it built with?
+### Where can I learn more?
 
-RPG Maker MZ, with custom JavaScript modules and gameplay systems.
+The official website is **[marvollostudio.com](https://marvollostudio.com/)**. This repository contains more detailed development updates.
 
-### What gameplay is planned?
+### What engine is Saltshore built with?
 
-Exploration, crafting, character development, decisions with consequences, relationships, branching stories, and additional locations. Some technical foundations already work; the complete experience remains in development.
+RPG Maker MZ, with additional JavaScript modules and custom gameplay systems.
 
-### Will the game be free?
+### How much of the game is complete?
 
-Yes. Saltshore is a free passion project. Voluntary support will not unlock exclusive story branches or essential content.
+The creator has approved three revised introductory areas and several interface and exploration systems. A functional combat prototype also exists, but its art and animation still need work. A complete, publicly playable story chapter has **not** been announced.
 
-### Is this an adults-only game?
+### What kind of gameplay is planned?
 
-Yes. The game is intended for players aged 18 and over and explores mature themes. Content details will be provided for each future public build.
+Exploration, crafting, character progression, story decisions, relationships, branching quests, and more locations. Some foundations are working already, but much of the narrative content is still in development.
 
-### Do you use AI?
+### Will it be free?
 
-Yes. ChatGPT, OpenAI Codex, OpenCode, ComfyUI, and local/open-weight models assist with planning, programming, tests, documentation, and visual experiments. The creator makes the final creative decisions.
+Yes. Saltshore is intended to be free, without story content locked behind voluntary support.
 
-### Why is the source repository private?
+### Is it intended for adults?
 
-This is a curated development journal, not an open-source mirror. Private source code, drafts, internal assets, and sensitive material are kept out of this repository.
+Yes. Saltshore is intended for players aged 18 and over and deals with mature themes. Content information will accompany future game releases.
 
-### When will the official site be available?
+### Does the project use AI tools?
 
-The landing page is being developed separately. Its link will appear after launch and verification.
+Yes. ChatGPT, OpenAI Codex, OpenCode, ComfyUI, and local/open-weight AI models assist with planning, coding, tests, documentation, and visual experiments. The creator decides the artistic direction and approves the results.
+
+### Can I see the source code?
+
+The game source repository remains **private**. This development journal is a curated showcase, not an open-source release.
 
 [Main page](../README.md)

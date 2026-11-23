@@ -2,33 +2,36 @@
 
 **Language:** **English** · [Русский](ROADMAP.ru.md)
 
-These are creative and technical priorities, **not a promised release schedule**.
+This roadmap describes development priorities, **not guaranteed features or release dates**. Updated November 23, 2026.
 
-## 1. Strengthen the foundations
+## 1. Establish the gameplay foundations
 
-Refine the existing inventory, crafting, save/load, world interactions, interface, and story-state systems as new content is integrated.
+**Progress:** The prototype already has resource gathering, crafting, character screens, versioned saves, dialogue state, and a custom UI.
 
-## 2. Build a cohesive playable opening
+## 2. Build a cohesive opening
 
-Turn the technical starting route into a complete introduction with clear goals, meaningful conversations, readable progression, consistent visuals, and reliable saves.
+**Progress:** On November 23, the creator approved three revised introduction areas: the shipwreck beach, a cave with a spring, and a forest clearing. Collision, lighting, transitions, and R03 interaction cues are implemented.
 
-## 3. Make choices and relationships matter
+**Still to do:** Continue writing and integrating a complete opening sequence, polish interactions, and verify the playable route end to end.
 
-The long-term design calls for the player's decisions to influence the story and Mira's relationships. The foundation exists, but the larger narrative and relationship content is still being built.
+## 3. Create meaningful choices and relationships
 
-## 4. Expand the island and its stories
+**Progress:** Foundational narrative state, dialogue interactions, and character attributes exist.
 
-Add characters, locations, quests, professions, factions, and meaningful alternative routes gradually. Stabilize existing systems before expanding scope.
+**Still to do:** Develop complete quests, relationships, alternative routes, and visible consequences. The game should react to what the player chooses, not merely offer different dialogue text.
 
-## 5. Prepare the first public alpha
+## 4. Finish combat's playable presentation
 
-Release a limited but genuinely playable Windows build with verified functionality, version information, a changelog, known limitations, and a feedback channel.
+**Progress:** Combat T14 R7 is a functional, opt-in prototype already included in the main development branch.
 
-## Not promised
+**Still to do:** Complete missing poses, transitions, wardrobe-state coverage, visual review, and reliable gameplay integration. It is not ready to be described as finished combat.
 
-- A specific launch date or playtime for the first alpha.
-- A complete campaign in the next build.
-- Immediate implementation of every proposed feature.
-- Public access to the private source repository.
+## 5. Expand the island carefully
 
-[Main page](../README.md)
+Add locations, inhabitants, professions, and narrative routes after the opening experience and foundational systems are stable. Avoid expanding scope faster than the game can be tested and maintained.
+
+## 6. Release the first public alpha
+
+A tested Windows build will need a defined playable scope, known-issues list, changelog, download integrity information, and a feedback route. **No public build or release date is announced yet.**
+
+[Current status](STATUS.md) · [Main page](../README.md)

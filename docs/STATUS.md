@@ -1,32 +1,36 @@
-# Current development status
+# Saltshore — current development status
 
 **Language:** **English** · [Русский](STATUS.ru.md)
 
-**Snapshot: November 16, 2026.** This page summarizes verified internal development notes and prototype screenshots, not live release metrics.
+**Verified source snapshot: November 23, 2026.** Based on the private game's `main` branch, development log, and merged reviews. This is a summary for players, not a claim that every tested feature is ready for release.
 
-| Area | Verified state |
+| Area | Status |
 | --- | --- |
-| RPG Maker MZ prototype | Exists and runs internally |
-| Early route | Beach → cave → spring, implemented as a technical route |
-| Crafting and gathering | Basic systems implemented |
-| Character attributes, equipment, and save/load | Implemented in the prototype |
-| Dialogue and story choices | Foundational milestone implemented and reviewed |
-| UI V2 | Approved by the creator |
-| Lighting and campfires | Implemented and approved in the reviewed milestone |
-| Relationships | Key design goal; deeper mechanics and story content in progress |
-| Branching narrative | Story-state foundation exists; substantial content remains to be built |
-| Additional locations | Planned |
-| Complete combat system | Not confirmed as a finished public feature |
-| Public build | Not available |
-| Official website | In preparation |
-| Screenshots | Five real prototype UI screenshots published |
+| Opening locations | **Creator-approved:** shipwreck beach, cave with spring, forest clearing |
+| Movement, collisions, lighting, transitions | Implemented and reviewed for those three areas |
+| Interactive objects and collection cues | **R03 approved:** subtle nearby outline/action text and a distant blue-green marker |
+| Gathering and crafting | Working prototype systems |
+| Forest berries, mushrooms, plantain | Inventory icons and general descriptions added |
+| Item knowledge | Unknown properties are displayed; known properties can be saved. Full discovery gameplay is still planned |
+| Character stats, equipment, save/load | Working foundations, including versioned saves |
+| Dialogue and story choices | Technical foundation established; substantial narrative content remains to be built |
+| Relationships and branching content | Design priorities, not completed campaigns |
+| UI V2, portable lighting, campfires | Approved earlier development milestone |
+| Combat T14 R7 | **Functional WIP, visual polish pending**; merged into `main`, but encounters remain opt-in |
+| Combat art | Known gaps, including 66 art-coverage failures recorded in R7 |
+| Public playable build | **Not released** |
+| Official website | [marvollostudio.com](https://marvollostudio.com/) launched November 23 |
+| Public development journal | Prepared for release separately from the game |
 
-## What this means
+## What players should know
 
-Technical implementation, creative approval, and public release readiness are different milestones. Working prototype systems do not yet amount to a finished chapter.
+The three opening locations and interaction improvements are creator-approved, but the story chapter is **not yet complete**. Combat has undergone extensive technical testing but is **not** a finished player-facing system. Some internal validation and narrow-window UI issues remain open.
 
-## Next milestone
+## Next priorities
 
-Create a cohesive, testable opening experience while expanding narrative content and carefully integrating combat, relationships, and new locations.
+- Turn the improved opening areas into a cohesive story-driven experience.
+- Continue work on narrative choices, relationships, and the item-discovery loop.
+- Address combat animation coverage, polish, and final review.
+- Prepare a tested public build only when the release criteria are met.
 
-[Main page](../README.md)
+[Read the latest updates](../README.md#development-log) · [Roadmap](ROADMAP.md)

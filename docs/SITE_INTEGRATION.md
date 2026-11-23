@@ -1,28 +1,26 @@
-# Connecting the devlog to the official website
+# Linking the development journal and official website
 
 **Language:** **English** · [Русский](SITE_INTEGRATION.ru.md)
 
-The official landing page is a separate project in the private `RPGLANDING` repository. This devlog is intended to become the official player-facing record of Saltshore development.
+The Saltshore website was launched on November 23, 2026:
 
-## Planned link
+**[marvollostudio.com](https://marvollostudio.com/)**
 
-Once the showcase is reviewed and separately approved for public access, the website may link to:
+This development journal is maintained separately and is intended to be the destination for the website's **Development Log** link:
 
 `https://github.com/nickbeyrgest-ui/saltshore-devlog`
 
-Suggested English label: **Development Log** or **Follow Development**. The Russian website can use the corresponding Russian label.
+## Access and publication
 
-**Until this repository is public, the website must not present that URL as publicly accessible.**
+The website can be live while this GitHub repository is still private. Until its visibility is changed to **Public**, uninvited visitors may receive a 404 when following the development-log link.
 
-## Consistency across site and devlog
+Before opening the journal, review its complete Git history, images, source licenses, and private metadata. The underlying **game source repository must remain private**.
 
-- Use verified status claims, not speculative milestones.
-- Show actual version numbers and downloads only after a tested public release.
-- Include only approved screenshots with appropriate publication rights.
-- Voluntary support is not required for development or downloads.
+## Editorial consistency
 
-## Future synchronization
-
-The site and the devlog may share a curated release manifest and verified news. Never mirror private source files, the personal idea notebook, or confidential technical documents into a public-facing repository.
+- The game is **in development**, without a public build.
+- Release details appear only after an actual, approved release.
+- Use approved screenshots and accurate descriptions, not mock gameplay.
+- The GitHub journal and the website can share verified news, but neither should automatically mirror internal source code or the private idea journal.
 
 [Main page](../README.md)
